@@ -8,7 +8,7 @@ Write a program that takes in a the price of beer, then a list of patron names, 
 
 ```
 BEER 1.99
-Glenn 5 9.95
+Glenn 5 8.95
 Schwerin 1 1.99
 Glenn 5 8.95
 Dave 100 5
@@ -19,5 +19,5 @@ Schwerin 2 5.97
 
 ```
 Dave owes 194.0
-Glenn owes 1.0
+Glenn owes 2.0
 ```

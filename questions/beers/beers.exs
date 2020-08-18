@@ -1,6 +1,6 @@
 input = """
 BEER 1.99
-Glenn 5 9.95
+Glenn 5 8.95
 Schwerin 1 1.99
 Glenn 5 8.95
 Dave 100 5
