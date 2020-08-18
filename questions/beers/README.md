@@ -7,7 +7,7 @@ Write a program that takes in a the price of beer, then a list of patron names, 
 ### Sample Input
 
 ```
-BEER 1.99
+BEER_PRICE 1.99
 Glenn 5 8.95
 Schwerin 1 1.99
 Glenn 5 8.95

@@ -1,8 +1,7 @@
 phrases = [
-  
-"Melvin Mora led the o's in runs in 2005",
-"I wish they served Malørt",
-"more boh"
+  "Melvin Mora led the o's in runs in 2005",
+  "I wish they served Malørt",
+  "more boh"
 ]
 
 translate = fn string ->

@@ -1,5 +1,5 @@
 input = """
-BEER 1.99
+BEER_PRICE 1.99
 Glenn 5 8.95
 Schwerin 1 1.99
 Glenn 5 8.95
@@ -7,7 +7,7 @@ Dave 100 5
 Schwerin 2 5.97
 """
 
-["BEER " <> price | lines] = String.split(input, "\n", trim: true)
+["BEER_PRICE " <> price | lines] = String.split(input, "\n", trim: true)
 {price, ""} = Float.parse(price)
 
 parse_line = fn line ->
